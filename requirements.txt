@@ -1,9 +1,4 @@
 pandas
-#re
-random
-requests
 bs4
 selenium
-datetime
 ssl
-numpy
