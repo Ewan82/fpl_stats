@@ -1,7 +1,3 @@
 pandas
 bs4
-<<<<<<< HEAD
 selenium
-=======
-selenium
->>>>>>> 8102cfd9adfe75f44b8577b87b59c39dca7f01d8
